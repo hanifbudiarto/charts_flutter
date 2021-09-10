@@ -22,7 +22,6 @@ dependencies:
   logging: any
   meta: ^1.1.1
 
-.
 dev_dependencies:
   mockito: ^5.0.0
   build_runner: ^1.11.0
